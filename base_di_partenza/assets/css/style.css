@@ -21,6 +21,7 @@ header{
     position: sticky;
     top: 0;
     z-index: 1030;
+    transition: background-color .3s;
 }
 
 .headerScroll{
@@ -54,6 +55,7 @@ nav button:hover{
 
 .headerScrollBtz{
     background-color: #1a8917;
+    transition: background-color .3s;
 }
 
 /*UNDER HEADER*/
