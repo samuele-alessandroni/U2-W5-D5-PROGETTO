@@ -40,7 +40,7 @@ const mAnimation = () =>{
 }
 
 
-setInterval(mAnimation, 100)
+setInterval(mAnimation, 10)
 
 
 
